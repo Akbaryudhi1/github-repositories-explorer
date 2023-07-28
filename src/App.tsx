@@ -63,8 +63,6 @@ function App() {
             Search
           </button>
         </div>
-        <h1 className="text-3xl underline decoration-sky-500">Hello world!</h1>
-
         {data?.length >= 1 &&
           data.map((item, index) => {
             return (

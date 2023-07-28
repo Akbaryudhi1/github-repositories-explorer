@@ -1,4 +1,3 @@
-import "./loadingAnimation.css";
 const loadingAnimation = () => {
   return (
     <svg className="animate-spin" fill="none" height="60" viewBox="0 0 24 24" width="60" xmlns="http://www.w3.org/2000/svg">
